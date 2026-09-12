@@ -1,3 +1,7 @@
+> **ARCHIVED - superseded by the CMO Factory SSOT.** All marketing/GTM SOPs, the agent roster, and campaign structure now live in the private `breverdbidder/cmo-factory` repository. This repo is kept for history only.
+
+---
+
 # AI Marketing Skills
 
 **Open-source Claude Code skills for marketing and sales teams.** Built by the team at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) — battle-tested on real pipelines generating millions in revenue.
